@@ -1,0 +1,123 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Aspose.Imaging/22.10.0-beta": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Aspose.Imaging.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Aspose.Imaging.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aspose.Imaging/22.10.0-beta": {
+      "sha512": "gqslaAzFeMlm0l/iOMG4Cs5ooQUA1n5VbiN9KYQw45eBGXaucMPl3u/S4LJXv4odu6j5bte/FsMdqlGCQ3hnzQ==",
+      "type": "package",
+      "path": "aspose.imaging/22.10.0-beta",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Help/Aspose.Imaging.chm",
+        "LICENSE.txt",
+        "License/Aspose_End-User-License-Agreement_2021-01-19.pdf",
+        "License/ThirdPartyLicenses.Aspose.Imaging.Net.pdf",
+        "aspose.imaging.22.10.0-beta.nupkg.sha512",
+        "aspose.imaging.nuspec",
+        "lib/net20/Aspose.Imaging.dll",
+        "lib/net20/Aspose.Imaging.xml",
+        "lib/net35-client/Aspose.Imaging.dll",
+        "lib/net35-client/Aspose.Imaging.xml",
+        "lib/net35/Aspose.Imaging.dll",
+        "lib/net35/Aspose.Imaging.xml",
+        "lib/net40-client/Aspose.Imaging.dll",
+        "lib/net40-client/Aspose.Imaging.xml",
+        "lib/net40/Aspose.Imaging.dll",
+        "lib/net40/Aspose.Imaging.xml",
+        "lib/net5.0/Aspose.Imaging.dll",
+        "lib/net5.0/Aspose.Imaging.xml",
+        "lib/net6.0/Aspose.Imaging.dll",
+        "lib/net6.0/Aspose.Imaging.xml",
+        "lib/netcoreapp3.1/Aspose.Imaging.dll",
+        "lib/netcoreapp3.1/Aspose.Imaging.xml",
+        "lib/netstandard2.0/Aspose.Imaging.dll",
+        "lib/netstandard2.0/Aspose.Imaging.xml",
+        "readme.with.aspose.drawing.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Aspose.Imaging >= 22.10.0-beta"
+    ]
+  },
+  "packageFolders": {
+    "/Users/joerg/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/joerg/Documents/Projects/DotNetFontsMeasure/DotNetFontsMeasure.csproj",
+      "projectName": "DotNetFontsMeasure",
+      "projectPath": "/Users/joerg/Documents/Projects/DotNetFontsMeasure/DotNetFontsMeasure.csproj",
+      "packagesPath": "/Users/joerg/.nuget/packages/",
+      "outputPath": "/Users/joerg/Documents/Projects/DotNetFontsMeasure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/joerg/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Aspose.Imaging": {
+            "target": "Package",
+            "version": "[22.10.0-beta, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.404/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

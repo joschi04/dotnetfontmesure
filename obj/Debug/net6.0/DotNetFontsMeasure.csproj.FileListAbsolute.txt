@@ -1,0 +1,17 @@
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/bin/Debug/net6.0/DotNetFontsMeasure
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/bin/Debug/net6.0/DotNetFontsMeasure.deps.json
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/bin/Debug/net6.0/DotNetFontsMeasure.runtimeconfig.json
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/bin/Debug/net6.0/DotNetFontsMeasure.dll
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/bin/Debug/net6.0/DotNetFontsMeasure.pdb
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/obj/Debug/net6.0/DotNetFontsMeasure.csproj.AssemblyReference.cache
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/obj/Debug/net6.0/DotNetFontsMeasure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/obj/Debug/net6.0/DotNetFontsMeasure.AssemblyInfoInputs.cache
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/obj/Debug/net6.0/DotNetFontsMeasure.AssemblyInfo.cs
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/obj/Debug/net6.0/DotNetFontsMeasure.csproj.CoreCompileInputs.cache
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/obj/Debug/net6.0/DotNetFontsMeasure.dll
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/obj/Debug/net6.0/refint/DotNetFontsMeasure.dll
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/obj/Debug/net6.0/DotNetFontsMeasure.pdb
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/obj/Debug/net6.0/DotNetFontsMeasure.genruntimeconfig.cache
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/obj/Debug/net6.0/ref/DotNetFontsMeasure.dll
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/bin/Debug/net6.0/Aspose.Imaging.dll
+/Users/joerg/Documents/Projects/DotNetFontsMeasure/obj/Debug/net6.0/DotNetFontsMeasure.csproj.CopyComplete

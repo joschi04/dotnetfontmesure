@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DotNetFontsMeasure/1.0.0": {
+        "dependencies": {
+          "Aspose.Imaging": "22.10.0-beta"
+        },
+        "runtime": {
+          "DotNetFontsMeasure.dll": {}
+        }
+      },
+      "Aspose.Imaging/22.10.0-beta": {
+        "runtime": {
+          "lib/net6.0/Aspose.Imaging.dll": {
+            "assemblyVersion": "22.10.0.0",
+            "fileVersion": "22.10.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetFontsMeasure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aspose.Imaging/22.10.0-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gqslaAzFeMlm0l/iOMG4Cs5ooQUA1n5VbiN9KYQw45eBGXaucMPl3u/S4LJXv4odu6j5bte/FsMdqlGCQ3hnzQ==",
+      "path": "aspose.imaging/22.10.0-beta",
+      "hashPath": "aspose.imaging.22.10.0-beta.nupkg.sha512"
+    }
+  }
+}

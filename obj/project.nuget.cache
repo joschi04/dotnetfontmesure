@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sg2xryoEzv9ODAFOiqzH21sBrg4HUKXCDsyE+itRykykq4PN/rNQvVbd78TGNnQfIvoPfKXWoQ9QqpwbsmkQxw==",
+  "success": true,
+  "projectFilePath": "/Users/joerg/Documents/Projects/DotNetFontsMeasure/DotNetFontsMeasure.csproj",
+  "expectedPackageFiles": [
+    "/Users/joerg/.nuget/packages/aspose.imaging/22.10.0-beta/aspose.imaging.22.10.0-beta.nupkg.sha512"
+  ],
+  "logs": []
+}

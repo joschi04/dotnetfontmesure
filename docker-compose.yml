@@ -1,0 +1,9 @@
+
+version: '3.4'
+
+services:
+  dotnetfontsmeasure:
+    image: dotnetfontsmeasure
+    build:
+      context: .
+      dockerfile: ./Dockerfile
